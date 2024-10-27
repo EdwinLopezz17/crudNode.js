@@ -1,0 +1,7 @@
+npm i express nodemon 
+npm i dotenv -D
+npm i MySQL
+npm install sequelize mysql2
+npm i bcrypt
+npm install jsonwebtoken
+
